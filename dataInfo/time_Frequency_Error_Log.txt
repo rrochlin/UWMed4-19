@@ -20,8 +20,8 @@ Time Errors  11   9
 
 potential error in S-05
 0.68%
-Time Errors   9  16   4  30  40  20
-# Observed    1   1   1   1   1   2
+Time Errors  16   9  40  30  20   4
+# Observed    1   1   1   1   2   1
 
 potential error in S-06
 0.2%
@@ -30,18 +30,18 @@ Time Errors   9  20
 
 potential error in S-07
 19.9%
-Time Errors 627  27  20
+Time Errors  27 627  20
 # Observed    1   1 159
 
 potential error in S-08
 49.86%
-Time Errors  27  59  20
-# Observed    2   1 343
+Time Errors  59  27  20
+# Observed    1   2 343
 
 potential error in S-09
 50.0%
-Time Errors  21  22  11  18  19  26  20
-# Observed    2   1   1   1   2   1 330
+Time Errors  26  21  22  18  19  20  11
+# Observed    1   2   1   1   2 330   1
 
 potential error in S-10
 49.85%
@@ -60,17 +60,17 @@ Time Errors  27  20
 
 potential error in S-13
 20.08%
-Time Errors  27  23  19  58  20
-# Observed    1   1   1   1 154
+Time Errors  23  19  20  58  27
+# Observed    1   1 154   1   1
 
 potential error in S-14
 49.92%
-Time Errors 939  27  21  20
-# Observed    1   1   1 314
+Time Errors 939  21  20  27
+# Observed    1   1 314   1
 
 potential error in S-15
 0.49%
-Time Errors   9  17  15  11  13
+Time Errors   9  17  13  15  11
 # Observed    1   1   1   1   1
 
 potential error in S-16
@@ -80,7 +80,7 @@ Time Errors  14
 
 potential error in S-18
 0.39%
-Time Errors  17   9  14  15
+Time Errors   9  14  17  15
 # Observed    1   1   1   1
 
 potential error in S-19
